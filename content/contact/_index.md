@@ -1,11 +1,7 @@
 ---
 title: Contact
-featured_image: "images/notebook.jpg"
-omit_header_text: true
 description: We'd love to hear from you
-kind: page
-menu:
-  main: {}
+type: page
 ---
 
 {{< form-contact action="https://formspree.io/conrad.christensen@gmail.com"  >}}
