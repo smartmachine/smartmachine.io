@@ -1,3 +1,4 @@
 baseURL = "https://smartmachine.github.io"
 languageCode = "en-us"
 title = "SmartMachine AB"
+theme = "ananke"
